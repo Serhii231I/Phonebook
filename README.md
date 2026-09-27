@@ -31,7 +31,6 @@ The application allows users to register, log in, manage their contacts, search 
 ### Frontend
 
 - **React**
-- **TypeScript**
 - **React Router**
 - **Redux Toolkit**
 - **Redux Persist**
@@ -120,7 +119,6 @@ The main goal of the project was to gain practical experience with modern React 
 During development, I practiced:
 
 - React component architecture
-- TypeScript
 - State management
 - REST API integration
 - Authentication
